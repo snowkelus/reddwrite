@@ -1,2 +1,3 @@
-# reddwrite
-Reddit RSS Aggregator + Database Update Docker Automation Kit..
+# Redd Write:
+
+* Reddit RSS Aggregator + Database Update Docker Automation Kit..
